@@ -1,1 +1,11 @@
 #./.venv/Scripts/activate
+google-search-results
+streamlit
+langchain
+langchain_community
+python-dotenv
+google-generativeai
+ipykernel
+pyPDF2
+
+-e .
