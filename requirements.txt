@@ -5,6 +5,8 @@ langchain
 langchain_community
 python-dotenv
 google-generativeai
+langchain_google_genai
+openai
 ipykernel
 pyPDF2
 
